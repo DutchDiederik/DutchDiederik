@@ -1,1 +1,1 @@
-My name is Diederik and I live in Rotterdam, The Netherlands. I like spending time with my family and building software apps. My interests include photography, product design, writing, and martial arts. 
+My name is Diederik and I live in Rotterdam, The Netherlands. My interests include photography, product design, writing, and martial arts. 
