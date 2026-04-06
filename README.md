@@ -1,6 +1,6 @@
-My name is Diederik and I live in Rotterdam, The Netherlands. My interests include photography, product design, writing, and martial arts. 
+My name is Diederik and I live in Rotterdam, The Netherlands🇳🇱. My interests include photography, product design, writing, and martial arts. 
 
-🌐 <a href="https://diederik.blog" target="_blank">Homepage</a> · 💼 <a href="https://jdh-company.com" target="_blank">IT Service business</a> · 📷 <a href="https://jdh-photography.com" target="_blank">Photography</a>
+🏠 <a href="https://diederik.blog" target="_blank">Personal homepage</a> · 💼 <a href="https://jdh-company.com" target="_blank">IT Service business</a> · 📷 <a href="https://jdh-photography.com" target="_blank">Photography</a>
 
 ---
 ## 🚀 Live
@@ -14,5 +14,6 @@ My name is Diederik and I live in Rotterdam, The Netherlands. My interests inclu
 |---------|-------------|--------|
 | **Allert Web App** | Food allergy flash card generator — web version | ![90%](https://img.shields.io/badge/progress-90%25-yellow--green) |
 | **Freelancer & solo entrepreneur system** | Client/project management system for specific audience | ![70%](https://img.shields.io/badge/progress-70%25-yellow) |
+| **New photography website** | Design refresh, including store for ultra high-quality fine art prints | !![50%](https://img.shields.io/badge/progress-50%25-yellow)) |
 | **Dog Breed Picker** | Tool to help people decide which dog would suit them best | ![20%](https://img.shields.io/badge/progress-20%25-orange) |
 | **High quality children's Book DB** | Curated collection of top-tier children's books | ![10%](https://img.shields.io/badge/progress-10%25-lightgrey) |
