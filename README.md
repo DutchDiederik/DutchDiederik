@@ -1,46 +1,22 @@
 My name is Diederik and I live in Rotterdam, The Netherlands. My interests include photography, product design, writing, and martial arts. 
 
-# Projects
+🌐 [Homepage](https://diederik.blog) · 💼 [IT Service business](https://jdh-company.com) · 📷 [Photography](https://jdh-photography.com)
 
-## Allert
-Food allergy flash card generator (iPhone)
+---
 
-**Status:** [live](https://apps.apple.com/us/app/allert-for-food-allergies/id1387151754)
+## 🚀 Live
 
-## Allert web app
-Food allergy flash card generator (web version)
+| Project | Description |
+|---------|-------------|
+| [**Allert**](https://apps.apple.com/us/app/allert-for-food-allergies/id1387151754) | Food allergy flash card generator for iPhone |
 
-**Status:** [█████████-] 90% (public beta soon)
+---
 
-## Freelancer & solo entrepreneur client/project system
-CRM and project management for a niche audience with a twist
+## 🔨 Building
 
-**Status:** [███████---] 70%
-
-## Dog breed picker
-Tool to help people decide which dog would suit them best
-
-**Status:** [██--------] 20%
-
-## Children's book database
-Curated collection of top tier children's books
-
-**Status:** [█---------] 10%
-
-# Links
-
-## Personal website
-My homepage
-
-**Status:** [live](https://diederik.blog)
-
-
-## JDH Company
-IT Services for freelancers and SMB
-
-**Status:** [live](https://jdh-company.com)
-
-## JDH Photography
-Photography services. Ultra-premium fine art prints coming soon
-
-**Status:** [live](https://jdh-photography.com)
+| Project | Description | Status |
+|---------|-------------|--------|
+| **Allert Web App** | Food allergy flash cards — web version | ![90%](https://img.shields.io/badge/progress-90%25-brightgreen) |
+| **Freelancer & solo entrepreneur client/project management system** | Personal tool, now building for public use | ![70%](https://img.shields.io/badge/progress-70%25-yellow) |
+| **Dog Breed Picker** | Tool to help people decide which dog would suit them best | ![20%](https://img.shields.io/badge/progress-20%25-orange) |
+| **High quality children's Book DB** | Curated collection of top-tier children's books | ![10%](https://img.shields.io/badge/progress-10%25-lightgrey) |
