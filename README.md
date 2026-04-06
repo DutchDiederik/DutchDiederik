@@ -1,6 +1,6 @@
 My name is Diederik and I live in Rotterdam, The Netherlands. My interests include photography, product design, writing, and martial arts. 
 
-🏠 <a href="https://diederik.blog" target="_blank">Personal homepage</a> · 💼 <a href="https://jdh-company.com" target="_blank">IT Service business</a> · 📷 <a href="https://jdh-photography.com" target="_blank">Photography</a>· <a href="https://x.com/DutchDiederik" target="_blank">𝕏</a> · 🖋️ <a href="https://diederik.substack.com/" target="_blank">Substack</a>
+🏠 <a href="https://diederik.blog" target="_blank">Personal homepage</a> · 💼 <a href="https://jdh-company.com" target="_blank">IT Service business</a> · 📷 <a href="https://jdh-photography.com" target="_blank">Photography</a> · 📱 <a href="https://x.com/DutchDiederik" target="_blank">𝕏</a> · 🖋️ <a href="https://diederik.substack.com/" target="_blank">Substack</a>
 
 ---
 ## 🚀 Live
