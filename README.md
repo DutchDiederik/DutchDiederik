@@ -1,4 +1,4 @@
-My name is Diederik and I live in Rotterdam, The Netherlands🇳🇱. My interests include photography, product design, writing, and martial arts. 
+My name is Diederik and I live in Rotterdam, The Netherlands. My interests include photography, product design, writing, and martial arts. 
 
 🏠 <a href="https://diederik.blog" target="_blank">Personal homepage</a> · 💼 <a href="https://jdh-company.com" target="_blank">IT Service business</a> · 📷 <a href="https://jdh-photography.com" target="_blank">Photography</a>
 
