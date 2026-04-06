@@ -1,11 +1,13 @@
 My name is Diederik and I live in Rotterdam, The Netherlands. My interests include photography, product design, writing, and martial arts. 
 
 🌐 <a href="https://diederik.blog" target="_blank">Homepage</a> · 💼 <a href="https://jdh-company.com" target="_blank">IT Service business</a> · 📷 <a href="https://jdh-photography.com" target="_blank">Photography</a>
+
 ---
 ## 🚀 Live
 | Project | Description | Status |
 |---------|-------------|--------|
 | <a href="https://apps.apple.com/us/app/allert-for-food-allergies/id1387151754" target="_blank"><b>Allert</b></a> | Food allergy flash card generator for iPhone | ![live v1.4.2](https://img.shields.io/badge/live-v1.4.2-brightgreen) |
+
 ---
 ## 🔨 Building
 | Project | Description | Status |
