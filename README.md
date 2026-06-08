@@ -16,9 +16,9 @@ My name is Diederik and I live in Rotterdam, The Netherlands. My interests inclu
 ## 🔨 Building
 | Project | Description | Status |
 |---------|-------------|--------|
-| **Allert Web App** | Food allergy flash card generator — web version | ![90%](https://img.shields.io/badge/progress-90%25-yellow--green) |
-| **Shopify image gallery** | Theme element to display photos in a beautiful way | ![90%](https://img.shields.io/badge/progress-90%25-yellow--green) |
+| **Allert Web App** | Food allergy flash card generator — web version | ![95%](https://img.shields.io/badge/progress-95%25-brightgreen) |
+| **Shopify image gallery** | Theme element to display photos in a beautiful way | ![90%](https://img.shields.io/badge/progress-90%25-yellowgreen) |
 | **Client/project management system** | Specifically for freelancers and solo entrepreneurs | ![70%](https://img.shields.io/badge/progress-70%25-yellow) |
 | **New photography website** | Design refresh & store add-on for ultra high-quality fine art prints | ![50%](https://img.shields.io/badge/progress-50%25-yellow) |
-| **Dog Breed Picker** | Tool to help people decide which dog would suit them best | ![20%](https://img.shields.io/badge/progress-20%25-orange) |
+| **Dog Breed Picker** | Tool to help people decide which dog would suit them best | ![60%](https://img.shields.io/badge/progress-60%25-yellow) |
 | **High quality children's Book DB** | Curated collection of top-tier children's books | ![10%](https://img.shields.io/badge/progress-10%25-lightgrey) |
