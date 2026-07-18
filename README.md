@@ -7,6 +7,7 @@ My name is Diederik and I live in Rotterdam, The Netherlands. My interests inclu
 | Project | Description | Status |
 |---------|-------------|--------|
 | <a href="https://apps.apple.com/us/app/allert-for-food-allergies/id1387151754" target="_blank"><b>Allert</b></a> | Food allergy flash card generator for iPhone | ![live v1.4.2](https://img.shields.io/badge/live-v1.4.2-brightgreen) |
+| **Allergy Note** | Food allergy flash card generator | ![live v1.0.0](https://img.shields.io/badge/live-v1.0.0-brightgreen) |
 | <a href="https://github.com/DutchDiederik/Obsidian-tweaks" target="_blank"><b>Obsidian setup</b></a> | Plugins/settings overview and CSS tweaks | ![live v1.0.0](https://img.shields.io/badge/live-v1.0.0-brightgreen) |
 
 
@@ -16,7 +17,6 @@ My name is Diederik and I live in Rotterdam, The Netherlands. My interests inclu
 ## 🔨 Building
 | Project | Description | Status |
 |---------|-------------|--------|
-| **Allert Web App** | Food allergy flash card generator — web version | ![95%](https://img.shields.io/badge/progress-95%25-brightgreen) |
 | **Shopify image gallery** | Theme element to display photos in a beautiful way | ![90%](https://img.shields.io/badge/progress-90%25-yellowgreen) |
 | **Client/project management system** | Specifically for freelancers and solo entrepreneurs | ![70%](https://img.shields.io/badge/progress-70%25-yellow) |
 | **Dog Breed Picker** | Tool to help people decide which dog would suit them best | ![60%](https://img.shields.io/badge/progress-60%25-yellow) |
