@@ -21,7 +21,13 @@ Add one row after the existing Live projects:
 
 ### 2. Building table
 
-Unchanged.
+Update Dog Breed Picker progress from 75% to 80%:
+
+| Field | Value |
+|-------|--------|
+| Status | `![80%](https://img.shields.io/badge/progress-80%25-yellowgreen)` |
+
+No other Building rows change.
 
 ### 3. New Websites section
 
