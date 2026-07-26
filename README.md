@@ -6,9 +6,9 @@ My name is Diederik and I live in Rotterdam, The Netherlands. My interests inclu
 ## 🚀 Live
 | Project | Description | Status |
 |---------|-------------|--------|
+| <a href="https://github.com/DutchDiederik/AmberConsole" target="_blank"><b>Amber Console</b></a> | Monochrome terminal CSS framework | ![live v1.0.1](https://img.shields.io/badge/live-v1.0.1-brightgreen) |
 | <a href="https://allergynote.com" target="_blank"><b>Allergy Note</b></a> | Food allergy flash card generator | ![live v1.0.0](https://img.shields.io/badge/live-v1.0.0-brightgreen) |
 | <a href="https://github.com/DutchDiederik/Obsidian-tweaks" target="_blank"><b>Obsidian setup</b></a> | Plugins/settings overview and CSS tweaks | ![live v1.0.0](https://img.shields.io/badge/live-v1.0.0-brightgreen) |
-| <a href="https://github.com/DutchDiederik/AmberConsole" target="_blank"><b>Amber Console</b></a> | Monochrome terminal CSS framework | ![live v1.0.1](https://img.shields.io/badge/live-v1.0.1-brightgreen) |
 
 ---
 ## 🔨 Building
