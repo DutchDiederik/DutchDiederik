@@ -19,9 +19,10 @@ My name is Diederik and I live in Rotterdam, The Netherlands. My interests inclu
 | **Client/project management system** | Specifically for freelancers and solo entrepreneurs | ![70%](https://img.shields.io/badge/progress-70%25-yellow) |
 | **New photography website** | Design refresh & store add-on for ultra high-quality fine art prints | ![50%](https://img.shields.io/badge/progress-50%25-yellow) |
 | **High quality children's Book DB** | Curated collection of top-tier children's books | ![10%](https://img.shields.io/badge/progress-10%25-lightgrey) |
+| **Poppy Apparel** | Workman's clothing store, built on Shopify | ![10%](https://img.shields.io/badge/progress-10%25-lightgrey) |
 
 ---
-## 🌐 Websites
+## 🌐 Websites built
 | Project | Description | Status |
 |---------|-------------|--------|
-| <a href="https://poppycool.nl" target="_blank"><b>Poppy Cool</b></a> | Air conditioning installation service | ![live](https://img.shields.io/badge/live-brightgreen) |
+| <a href="https://poppycool.nl" target="_blank"><b>Poppy Cool</b></a> | Air conditioning installation service | ![live v1.0.0](https://img.shields.io/badge/live-v1.0.0-brightgreen) |
